@@ -136,7 +136,7 @@ def adding_to_dennis
      }
      
      binding.pry
-     programmer_hash[dennis_ritchie] = :languages >> "Assembly"
+     programmer_hash[dennis_ritchie] = {:languages => "Assembly"}
      
      programmer_hash
 
