@@ -135,10 +135,9 @@ def adding_to_dennis
         }
      }
      
+  binding.pry 
   
      programmer_hash[dennis_ritchie] = {:languages => "Assembly"}
-     
-     binding.pry
      
 
 end
