@@ -140,6 +140,5 @@ def adding_to_dennis
      
      binding.pry
      
-     programmer_hash
 
 end
